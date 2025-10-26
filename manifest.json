@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "User Select Enabler for act.hoyoverse.com",
+  "name": "Select Enabler for Genshin UGC",
   "version": "1.0.0",
   "description": "UGCのチュートリアルでテキスト選択を有効にする拡張機能",
   "permissions": [],
